@@ -7,7 +7,8 @@ This file contains all graphs related to the wildfire analysis assignment, along
 ## 🔥 Task 1.1: Line Chart for Average Fire Area Over Time
 **Question:** Use pandas to group your data by date and calculate the average estimated fire area for each day. Then, use a line chart to show how the average fire area changes over time.
 
-![Task 1.1](extracted_images/page9_img1.png)
+![image](https://github.com/user-attachments/assets/0368f6de-36cb-4dec-8ffa-5e0a5b08ea0e)
+
 
 ---
 
